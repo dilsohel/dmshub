@@ -1,0 +1,8 @@
+{
+  "name": "DMS Solution",
+  "description": "Multi-tenant Business Management SaaS Platform for shopkeepers, wholesalers, retailers, and manufacturers to manage sales, purchases, inventory, accounting, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
